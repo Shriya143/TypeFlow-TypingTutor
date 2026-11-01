@@ -7,11 +7,11 @@
 
 | | |
 |---|---|
-| **Student** | _your name_ |
-| **UID / Roll No.** | _your UID_ |
-| **Course / Section** | _your course and section_ |
-| **Guided by** | _teacher name_ |
-| **Live web demo** | _paste your GitHub Pages link here_ |
+| **Student** |Shriya|
+| **UID / Roll No.** | 25BAI10016 |
+| **Course / Section** | Object-Oriented Programming using Java |
+| **Guided by** | Mr.Pravindra Kumar Gole |
+
 
 ---
 
